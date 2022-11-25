@@ -8,14 +8,14 @@
 __Just do a `fetch` on the below:__
 
 ```
-https://cors.now.sh/<url>
+https://4rr0w.my.id/<url>
 ```
 
 __Example:__
 
 ```js
 // The XKCD URL below doesn't allow CORS.
-fetch('https://cors.now.sh/http://xkcd.com/info.0.json')
+fetch('https://4rr0w.my.id/http://xkcd.com/info.0.json')
 .then(console.log)
 .catch(console.error)
 ```
@@ -36,4 +36,4 @@ P.S: Make sure you give the absolute URL, or else you will see an error like:
 
 ## License
 
-MIT © [Hemanth.HM](https://h3manth.com)
+MIT © [4RR0W](https://4rr0w.my.id)
