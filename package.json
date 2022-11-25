@@ -4,11 +4,11 @@
   "version": "1.0.0",
   "description": "reverse proxy with CORS headers.",
   "license": "MIT",
-  "repository": "hemanth/cors-now",
+  "repository": "4rr0w/cors-now",
   "author": {
-    "name": "Hemanth.HM",
-    "email": "hemanth.hm@gmail.com",
-    "url": "h3manth.com"
+    "name": "4RR0W",
+    "email": "4rr0w.40@gmail.com",
+    "url": "4rr0w.my.id"
   },
   "engines": {
     "node": "^16.0.0"
